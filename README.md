@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Julien Cardinal, AI Reaserch Scientist specialising in RL and Optimisation Problems.
 <!--
 **Kreyparion/Kreyparion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Kreyparion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreyparion&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kreyparion&theme=radical&count_private=true&hide=Jupyter%20Notebook)
