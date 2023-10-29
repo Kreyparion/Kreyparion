@@ -1,3 +1,7 @@
+<img align="center" src="assets/banners/CS-saclay.png" alt="banner"/>
+
+---
+
 ### Hi there 👋
 
 I'm Julien Cardinal, AI Reaserch Scientist specialising in RL and Optimisation Problems.
