@@ -8,9 +8,9 @@ If you want to check out my work, go visit my [personal website ✨](https://www
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
     <div >
-        <img src="https://github-readme-stats.vercel.app/api?username=kreyparion&show_icons=true&theme=radical" alt="GitHub Stats"  width="350"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kreyparion&show_icons=true&theme=radical" alt="GitHub Stats"  width="300"/>
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreyparion&theme=radical&count_private=true&layout=compact" alt="Top Languages" width="250"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreyparion&theme=radical&count_private=true&layout=compact" alt="Top Languages" width="200"/>
     </div>
 </div>
