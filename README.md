@@ -6,8 +6,8 @@ I'm **Julien Cardinal**, AI Reaserch Scientist specialising in RL and Optimisati
 
 If you want to check out my work, go visit my [personal website ✨](https://www.kreyparion.com/) !
 
-<div style="display: flex; justify-content: space-between; align-items: center">
-    <div  style="margin-right: 5px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
+    <div >
         <img src="https://github-readme-stats.vercel.app/api?username=kreyparion&show_icons=true&theme=radical" alt="GitHub Stats"  width="350"/>
     </div>
     <div>
