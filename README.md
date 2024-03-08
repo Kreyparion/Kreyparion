@@ -1,24 +1,11 @@
-<img align="center" src="assets/banners/CS-saclay.png" alt="banner"/>
+<img align="center" src="assets/CS-saclay-banner.png" alt="banner"/>
 
----
 
 ### Hi there 👋
 
-I'm Julien Cardinal, AI Reaserch Scientist specialising in RL and Optimisation Problems.
-<!--
-**Kreyparion/Kreyparion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Julien Cardinal**, AI Reaserch Scientist specialising in RL and Optimisation Problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to check out my work, go visit [personal website ✨](https://www.kreyparion.com/) !
 
 ![Kreyparion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreyparion&show_icons=true&theme=radical)
 
