@@ -1,4 +1,10 @@
-<img align="center" src="assets/CS-saclay-banner.png" alt="banner"/>
+
+<p float="left">
+  <img align="center" src="assets/ENS-logo.png" alt="banner" width=43%/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="assets/Inria-banner.png" alt="banner" width=43%/>
+</p>
+
 
 ### Hi there 👋
 
